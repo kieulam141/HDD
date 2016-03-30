@@ -30,4 +30,11 @@
 
 <img src="http://i.imgur.com/KMCueQG.png" />
 
-#Còn tiếp...
+### 3. Câu lệnh làm việc với ổ đĩa
+- fdisk: Phân vùng đĩa.
+- sfdisk: Show ra các thông tin về phân vùng trên đĩa, và rất nguy hiểm hơn là có thẻ tái phân vùng.
+- parted: tạo, xóa, thay đổi kích cỡ, kiểm tra, và sao chép các phân vùng.
+- resize2fs: resize các định dạng file ext2, ext3, ext4.
+
+### 4.Tham Khảo
+- 1.http://www.langson.gov.vn/ubnd/node/117
